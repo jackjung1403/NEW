@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "pitch-deck": {
+      "source": "ailabs-393/ai-labs-claude-skills",
+      "sourceType": "github",
+      "skillPath": "packages/skills/pitch-deck/SKILL.md",
+      "computedHash": "b23b5c7542d53e3cada85052bd4165210a95447215afa4456256dc43a864eee4"
+    }
+  }
+}
